@@ -1,0 +1,109 @@
+D:/Cordic/W_Multiplier_tb.vhd {0 {vcom -work work -2002 -explicit -stats=none D:/Cordic/W_Multiplier_tb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity W_Multiplier_tb
+-- Compiling architecture Behavioral of W_Multiplier_tb
+** Error: D:/Cordic/W_Multiplier_tb.vhd(26): (vcom-1027) Number of positional association elements (6) exceeds number of formals (3).
+** Note: D:/Cordic/W_Multiplier_tb.vhd(30): VHDL Compiler exiting
+
+} {9.0 10.0} {}} D:/Cordic/W_Subtractor_tb.vhd {0 {vcom -work work -2002 -explicit -stats=none D:/Cordic/W_Subtractor_tb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity W_Subtractor_tb
+-- Compiling architecture Behavioral of W_Subtractor_tb
+** Error: D:/Cordic/W_Subtractor_tb.vhd(11): (vcom-1136) Unknown identifier "Size".
+** Error: D:/Cordic/W_Subtractor_tb.vhd(11): Type error in range expression.
+** Error: D:/Cordic/W_Subtractor_tb.vhd(12): (vcom-1136) Unknown identifier "Size".
+** Error: D:/Cordic/W_Subtractor_tb.vhd(12): Type error in range expression.
+** Error: D:/Cordic/W_Subtractor_tb.vhd(14): (vcom-1396) Object "Size" cannot appear within the same interface list in which it is declared.
+** Error: D:/Cordic/W_Subtractor_tb.vhd(14): Type error in range expression.
+** Error: D:/Cordic/W_Subtractor_tb.vhd(22): (vcom-1027) Number of positional association elements (6) exceeds number of formals (4).
+** Warning: D:/Cordic/W_Subtractor_tb.vhd(26): (vcom-1090) Possible infinite loop: Process contains no WAIT statement.
+** Note: D:/Cordic/W_Subtractor_tb.vhd(28): VHDL Compiler exiting
+
+} {9.0 16.0} {}} D:/Cordic/W_Multiplier.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Cordic/W_Multiplier.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity W_Multiplier
+-- Compiling architecture Behavioral of W_Multiplier
+
+} {} {}} D:/Cordic/W_LShift_tb.vhd {0 {vcom -work work -2002 -explicit -stats=none D:/Cordic/W_LShift_tb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity W_LShift_tb
+-- Compiling architecture Behavioral of W_LShift_tb
+** Error: D:/Cordic/W_LShift_tb.vhd(12): (vcom-1136) Unknown identifier "Size".
+** Error: D:/Cordic/W_LShift_tb.vhd(12): Type error in range expression.
+** Error: D:/Cordic/W_LShift_tb.vhd(15): (vcom-1396) Object "Size" cannot appear within the same interface list in which it is declared.
+** Error: D:/Cordic/W_LShift_tb.vhd(15): Type error in range expression.
+** Note: D:/Cordic/W_LShift_tb.vhd(44): VHDL Compiler exiting
+
+} {9.0 13.0} {}} D:/Cordic/W_Subtractor.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Cordic/W_Subtractor.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity W_Subtractor
+-- Compiling architecture rtl of W_Subtractor
+
+} {} {}} D:/Cordic/LUTTable_tb.vhd {0 {vcom -work work -2002 -explicit -stats=none D:/Cordic/LUTTable_tb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity LUTTable_tb
+-- Compiling architecture Behavioral of LUTTable_tb
+** Error: D:/Cordic/LUTTable_tb.vhd(12): (vcom-1136) Unknown identifier "Size".
+** Error: D:/Cordic/LUTTable_tb.vhd(12): Type error in range expression.
+** Error: D:/Cordic/LUTTable_tb.vhd(14): (vcom-1396) Object "Size" cannot appear within the same interface list in which it is declared.
+** Error: D:/Cordic/LUTTable_tb.vhd(14): Type error in range expression.
+** Note: D:/Cordic/LUTTable_tb.vhd(32): VHDL Compiler exiting
+
+} {9.0 13.0} {}} D:/Cordic/W_RShift_tb.vhd {0 {vcom -work work -2002 -explicit -stats=none D:/Cordic/W_RShift_tb.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity W_RShift_tb
+-- Compiling architecture Behavioral of W_RShift_tb
+** Error: D:/Cordic/W_RShift_tb.vhd(11): (vcom-1136) Unknown identifier "Size".
+** Error: D:/Cordic/W_RShift_tb.vhd(11): Type error in range expression.
+** Error: D:/Cordic/W_RShift_tb.vhd(14): (vcom-1396) Object "Size" cannot appear within the same interface list in which it is declared.
+** Error: D:/Cordic/W_RShift_tb.vhd(14): Type error in range expression.
+** Note: D:/Cordic/W_RShift_tb.vhd(32): VHDL Compiler exiting
+
+} {9.0 13.0} {}} D:/Cordic/Cordic.vhd {0 {vcom -work work -2002 -explicit -stats=none D:/Cordic/Cordic.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity Cordic
+-- Compiling architecture Behavioral of Cordic
+** Error: D:/Cordic/Cordic.vhd(66): near ")": (vcom-1576) expecting IDENTIFIER.
+
+} {9.0 10.0} {}} D:/Cordic/LUTTable.vhd {1 {vcom -work work -2002 -explicit -stats=none D:/Cordic/LUTTable.vhd
+Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity LUTTable
+-- Compiling architecture Behavioral of LUTTable
+
+} {} {}}

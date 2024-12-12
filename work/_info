@@ -1,0 +1,407 @@
+m255
+K4
+z2
+!s11e MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/MODELSIM
+Ecordic
+w1733969318
+Z0 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 289
+Z3 dD:/Cordic
+8D:/Cordic/Cordic.vhd
+FD:/Cordic/Cordic.vhd
+l0
+Z4 L10 1
+VbA7PgO2T<maBW3j>kNNbX0
+!s100 6QI^YbGVO6c^RJ:S`CAb_3
+Z5 OV;C;2020.1;71
+32
+!s110 1733988401
+!i10b 1
+Z6 !s108 1733988401.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Cordic/Cordic.vhd|
+!s107 D:/Cordic/Cordic.vhd|
+!i113 1
+Z7 o-work work -2002 -explicit
+Z8 tExplicit 1 CvgOpt 0
+Eluttable
+Z9 w1733930559
+R0
+R1
+R2
+!i122 290
+R3
+Z10 8D:/Cordic/LUTTable.vhd
+Z11 FD:/Cordic/LUTTable.vhd
+l0
+R4
+VzR3C75A>3PlWk4Ygz:ZAA0
+!s100 Y;_WoE63FBYSHGQeiPJBo3
+R5
+32
+Z12 !s110 1733988402
+!i10b 1
+R6
+Z13 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Cordic/LUTTable.vhd|
+Z14 !s107 D:/Cordic/LUTTable.vhd|
+!i113 1
+R7
+R8
+Abehavioral
+R0
+R1
+R2
+DEx4 work 8 luttable 0 22 zR3C75A>3PlWk4Ygz:ZAA0
+!i122 290
+l18
+L17 42
+V__U<R@MW^z2]>?cSlkTZD2
+!s100 WhFbB5gY``bo^K?6TfKJz1
+R5
+32
+R12
+!i10b 1
+R6
+R13
+R14
+!i113 1
+R7
+R8
+Eluttable_tb
+w1733934346
+R0
+R1
+R2
+!i122 291
+R3
+8D:/Cordic/LUTTable_tb.vhd
+FD:/Cordic/LUTTable_tb.vhd
+l0
+L6 1
+VT08GXdV7QXJ9VKFZmkF=n1
+!s100 ?DgZL@WXldR;ecST:Q=5R3
+R5
+32
+R12
+!i10b 1
+Z15 !s108 1733988402.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Cordic/LUTTable_tb.vhd|
+!s107 D:/Cordic/LUTTable_tb.vhd|
+!i113 1
+R7
+R8
+Ew_adder
+Z16 w1733974369
+R0
+R1
+R2
+!i122 292
+R3
+Z17 8D:/Cordic/W_Adder.vhd
+Z18 FD:/Cordic/W_Adder.vhd
+l0
+R4
+VT]0W?2?Hhbf0zgGmFSBJf1
+!s100 EX_1[nI7cPaiI[VdoUdIf1
+R5
+32
+R12
+!i10b 1
+R15
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Cordic/W_Adder.vhd|
+Z20 !s107 D:/Cordic/W_Adder.vhd|
+!i113 1
+R7
+R8
+Artl
+R0
+R1
+R2
+DEx4 work 7 w_adder 0 22 T]0W?2?Hhbf0zgGmFSBJf1
+!i122 292
+l26
+L24 5
+VQh^iUZcAAhQOO<eEF>fmN3
+!s100 =NJgS[?Y<M^WKQDPbUGF:0
+R5
+32
+R12
+!i10b 1
+R15
+R19
+R20
+!i113 1
+R7
+R8
+Ew_lshift
+Z21 w1733987694
+R0
+R1
+R2
+!i122 293
+R3
+Z22 8D:\Cordic\W_LShift.vhd
+Z23 FD:\Cordic\W_LShift.vhd
+l0
+R4
+VfC1Z07UQBX3HWFQ^Th7c53
+!s100 ogcH^T7U^d2SCl:JZRiL<0
+R5
+32
+Z24 !s110 1733988403
+!i10b 1
+R15
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:\Cordic\W_LShift.vhd|
+Z26 !s107 D:\Cordic\W_LShift.vhd|
+!i113 1
+R7
+R8
+Artl
+R0
+R1
+R2
+DEx4 work 8 w_lshift 0 22 fC1Z07UQBX3HWFQ^Th7c53
+!i122 293
+l26
+L25 6
+VO65fDe9:A]QnSozCYVZR10
+!s100 gXk2[S3@`QQieYP51<NUa1
+R5
+32
+R24
+!i10b 1
+R15
+R25
+R26
+!i113 1
+R7
+R8
+Ew_lshift_tb
+w1733933224
+R0
+R1
+R2
+!i122 294
+R3
+8D:/Cordic/W_LShift_tb.vhd
+FD:/Cordic/W_LShift_tb.vhd
+l0
+L6 1
+V2iz]KZFRMMPcgBijaiOKU0
+!s100 fPGm<2NXZ=Q@@IgDUo1S52
+R5
+32
+!s110 1733988408
+!i10b 1
+!s108 1733988408.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Cordic/W_LShift_tb.vhd|
+!s107 D:/Cordic/W_LShift_tb.vhd|
+!i113 1
+R7
+R8
+Ew_multiplier
+Z27 w1733971720
+R0
+R1
+R2
+!i122 295
+R3
+Z28 8D:/Cordic/W_Multiplier.vhd
+Z29 FD:/Cordic/W_Multiplier.vhd
+l0
+L11 1
+V9i8Pc2aB<`k7^MAS3Y<Rg2
+!s100 k_QCB:OoUHNYZ@3CWQ9XN0
+R5
+32
+Z30 !s110 1733988417
+!i10b 1
+Z31 !s108 1733988417.000000
+Z32 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Cordic/W_Multiplier.vhd|
+Z33 !s107 D:/Cordic/W_Multiplier.vhd|
+!i113 1
+R7
+R8
+Abehavioral
+R0
+R1
+R2
+DEx4 work 12 w_multiplier 0 22 9i8Pc2aB<`k7^MAS3Y<Rg2
+!i122 295
+l26
+L25 5
+VVYniHfKC5`3JHVS72?LMS0
+!s100 dl`VRHGh^>S1lPmhH?S6c0
+R5
+32
+R30
+!i10b 1
+R31
+R32
+R33
+!i113 1
+R7
+R8
+Ew_multiplier_tb
+w1733970172
+R0
+R1
+R2
+!i122 296
+R3
+8D:/Cordic/W_Multiplier_tb.vhd
+FD:/Cordic/W_Multiplier_tb.vhd
+l0
+L5 1
+VebS2I5[mjl37OV4a0FdbZ2
+!s100 2Y3LJHaB=;ZjBPoDV`Tee1
+R5
+32
+!s110 1733988428
+!i10b 1
+Z34 !s108 1733988428.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Cordic/W_Multiplier_tb.vhd|
+!s107 D:/Cordic/W_Multiplier_tb.vhd|
+!i113 1
+R7
+R8
+Ew_rshift
+Z35 w1733986744
+R0
+R1
+R2
+!i122 297
+R3
+Z36 8D:/Cordic/W_RShift.vhd
+Z37 FD:/Cordic/W_RShift.vhd
+l0
+R4
+Vn9;;F29cYPS1gAFUP<Zjb0
+!s100 WRm>@J`QLgXzV33`JTch_0
+R5
+32
+Z38 !s110 1733988429
+!i10b 1
+R34
+Z39 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Cordic/W_RShift.vhd|
+Z40 !s107 D:/Cordic/W_RShift.vhd|
+!i113 1
+R7
+R8
+Artl
+R0
+R1
+R2
+DEx4 work 8 w_rshift 0 22 n9;;F29cYPS1gAFUP<Zjb0
+!i122 297
+l26
+L25 4
+VA12a1D5DMAd8?:nC76kgZ3
+!s100 DaYSj[aIUW6e[3X3]@MY32
+R5
+32
+R38
+!i10b 1
+R34
+R39
+R40
+!i113 1
+R7
+R8
+Ew_rshift_tb
+w1733933705
+R0
+R1
+R2
+!i122 298
+R3
+8D:/Cordic/W_RShift_tb.vhd
+FD:/Cordic/W_RShift_tb.vhd
+l0
+L5 1
+V6:;;O5=P^]m6_9W25?7CN2
+!s100 Q?FCjGXYDQ:MII=Q2:>2?0
+R5
+32
+R38
+!i10b 1
+Z41 !s108 1733988429.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Cordic/W_RShift_tb.vhd|
+!s107 D:/Cordic/W_RShift_tb.vhd|
+!i113 1
+R7
+R8
+Ew_subtractor
+Z42 w1733976205
+R0
+R1
+R2
+!i122 299
+R3
+Z43 8D:/Cordic/W_Subtractor.vhd
+Z44 FD:/Cordic/W_Subtractor.vhd
+l0
+R4
+V_Y@]jP`5QVSzXO:19mjE[2
+!s100 WQK_PdcFam@<e58eCOc_72
+R5
+32
+R38
+!i10b 1
+R41
+Z45 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Cordic/W_Subtractor.vhd|
+Z46 !s107 D:/Cordic/W_Subtractor.vhd|
+!i113 1
+R7
+R8
+Artl
+R0
+R1
+R2
+DEx4 work 12 w_subtractor 0 22 _Y@]jP`5QVSzXO:19mjE[2
+!i122 299
+l26
+L24 6
+V=bMHX0A;U?oc;WXmNR>eF2
+!s100 FiNUFAH_mlz_[lRT=5RY=0
+R5
+32
+R38
+!i10b 1
+R41
+R45
+R46
+!i113 1
+R7
+R8
+Ew_subtractor_tb
+w1733968973
+R0
+R1
+R2
+!i122 300
+R3
+8D:/Cordic/W_Subtractor_tb.vhd
+FD:/Cordic/W_Subtractor_tb.vhd
+l0
+L5 1
+Vc;KBV]^hiVzBZiXi[B@I81
+!s100 DPzQCj7D@o=]ekg2R0`5j1
+R5
+32
+R38
+!i10b 1
+R41
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/Cordic/W_Subtractor_tb.vhd|
+!s107 D:/Cordic/W_Subtractor_tb.vhd|
+!i113 1
+R7
+R8
